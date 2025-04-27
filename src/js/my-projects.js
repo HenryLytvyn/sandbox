@@ -1,15 +1,15 @@
 const projects = [
   {
-    original: '/img/my-projects/wallet_webservice.jpg',
-    originZoom: '/img/my-projects/wallet_webservice_x2.jpg 2x',
+    original: './img/my-projects/wallet_webservice.jpg',
+    originZoom: './img/my-projects/wallet_webservice_x2.jpg 2x',
     description: 'Wallet webservice',
     technologis: 'React, JavaScript, Node JS, Git',
     nameOfProject: 'Wallet webservice',
     link: 'https://github.com/HenryLytvyn/bitemates-project-js',
   },
   {
-    original: '/img/my-projects/green_harvest.jpg',
-    originZoom: '/img/my-projects/green_harvest_x2.jpg 2x',
+    original: '../img/my-projects/green_harvest.jpg',
+    originZoom: '../img/my-projects/green_harvest_x2.jpg 2x',
     description: 'Green harvest webservice',
     technologis: 'React, JavaScript, Node JS, Git',
     nameOfProject: 'Green harvest webservice',
