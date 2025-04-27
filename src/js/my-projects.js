@@ -1,7 +1,10 @@
+import wallet_webservice from '../img/my-projects/wallet_webservice.jpg';
+import wallet_webservice_2x from '../img/my-projects/wallet_webservice_x2.jpg';
+
 const projects = [
   {
-    original: './img/my-projects/wallet_webservice.jpg',
-    originZoom: './img/my-projects/wallet_webservice_x2.jpg 2x',
+    original: wallet_webservice,
+    originZoom: wallet_webservice_2x,
     description: 'Wallet webservice',
     technologis: 'React, JavaScript, Node JS, Git',
     nameOfProject: 'Wallet webservice',
